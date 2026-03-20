@@ -1,4 +1,4 @@
-# CodeReview AI — LLM-Powered Code Review Assistant
+# CodeReview AI: LLM-Powered Code Review Assistant
 
 An AI-powered code review tool that analyzes pull requests and code snippets for **security vulnerabilities**, **style issues**, **performance bottlenecks**, and **bugs** using LangChain, GPT-4o, and a full React + TypeScript dashboard.
 
